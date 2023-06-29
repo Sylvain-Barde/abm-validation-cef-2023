@@ -1,0 +1,12 @@
+arch
+gpytorch==1.2.0
+matplotlib
+numpy
+pandas
+sampyl-mcmc
+scikit-learn
+scipy
+sobolsequence
+statsmodels
+torch
+tqdm
